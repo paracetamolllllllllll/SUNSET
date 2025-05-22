@@ -163,7 +163,7 @@ function drawWater() {
 }
 
 function drawText() {
-  const text = "SUNSET DESIGN";
+  const text = "SUNSET";
   const x = canvas.width / 2;
   const baseY = 60;
 
