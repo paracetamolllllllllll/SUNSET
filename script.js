@@ -163,7 +163,7 @@ function drawWater() {
 }
 
 function drawText() {
-  const text = "TAKING OLISA TO WATCH SUNSET";
+  const text = "SUNSET DESIGN";
   const x = canvas.width / 2;
   const baseY = 60;
 
